@@ -1,9 +1,9 @@
 from twython import  Twython
 import os
 
-twitter = Twython("75mtIewAtE35lCmuNzhbA58tI", "A4WkHrg7qXnUE909jbQCqtL6gaTEGys0pw0T1jYPaEQqq1LxUb",
-                  "1006771019816865792-6A5hCj9J2oIPPRPN0JlvggOtPdLzSM",
-                  "93FyyZ3VZoBvKSsrfMDx8GltfpJbMKtlJVojGn8w0As6p")
+twitter = Twython("", "",
+                  "",
+                  "")
 twitter.verify_credentials()
 
 
